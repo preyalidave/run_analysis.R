@@ -4,7 +4,7 @@ downloading dataset
 
 assigning each data to variables
 
-(fearyres,activity,sub_test,xtest,ytest,sub_train,xtrain,ytrain)
+(features,activity,sub_test,xtest,ytest,sub_train,xtrain,ytrain)
 
 merging the test and train data
 
