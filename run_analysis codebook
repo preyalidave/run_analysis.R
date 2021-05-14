@@ -1,0 +1,29 @@
+downloading dataset
+
+(UCI HAR dataset)
+
+assigning each data to variables
+
+(fearyres,activity,sub_test,xtest,ytest,sub_train,xtrain,ytrain)
+
+merging the test and train data
+
+(x,y,merged_data)
+
+extracting mean and standrad deviation 
+
+labeling the columns
+
+((names(tidydata))
+
+creating a second independent tidy data set
+
+(tidy_data)
+
+viewing tidy_data
+
+(View(tidy_data))
+
+
+
+
